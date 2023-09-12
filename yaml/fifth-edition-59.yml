@@ -1,0 +1,110 @@
+---
+object: card
+id: f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83
+oracle_id: a1c50bd1-120d-44ac-af20-13a90fc991e6
+multiverse_ids:
+- 4156
+tcgplayer_id: 2362
+cardmarket_id: 9706
+name: Seraph
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83
+scryfall_uri: https://scryfall.com/card/5ed/59/seraph?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.jpg?1562594968
+  normal: https://cards.scryfall.io/normal/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.jpg?1562594968
+  large: https://cards.scryfall.io/large/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.jpg?1562594968
+  png: https://cards.scryfall.io/png/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.png?1562594968
+  art_crop: https://cards.scryfall.io/art_crop/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.jpg?1562594968
+  border_crop: https://cards.scryfall.io/border_crop/front/f/2/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83.jpg?1562594968
+mana_cost: "{6}{W}"
+cmc: 7.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  Whenever a creature dealt damage by Seraph this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of Seraph.
+power: '4'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1c50bd1-120d-44ac-af20-13a90fc991e6&unique=prints
+collector_number: '59'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: 6de5bd04-8f13-4e47-89e0-9df06dbe7fcd
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22392
+prices:
+  usd: '0.53'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4156
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Seraph&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Seraph&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Seraph
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2362?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Seraph&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Seraph&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

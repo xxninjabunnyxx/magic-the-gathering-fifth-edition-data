@@ -1,0 +1,114 @@
+---
+object: card
+id: 2be32aca-94d0-46df-9ca9-503a51416b14
+oracle_id: 51833cff-6519-4806-8d91-0040e9a02189
+multiverse_ids:
+- 3822
+tcgplayer_id: 2012
+cardmarket_id: 9372
+name: Abyssal Specter
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/2be32aca-94d0-46df-9ca9-503a51416b14
+scryfall_uri: https://scryfall.com/card/5ed/139/abyssal-specter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.jpg?1562590148
+  normal: https://cards.scryfall.io/normal/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.jpg?1562590148
+  large: https://cards.scryfall.io/large/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.jpg?1562590148
+  png: https://cards.scryfall.io/png/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.png?1562590148
+  art_crop: https://cards.scryfall.io/art_crop/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.jpg?1562590148
+  border_crop: https://cards.scryfall.io/border_crop/front/2/b/2be32aca-94d0-46df-9ca9-503a51416b14.jpg?1562590148
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Specter
+oracle_text: |-
+  Flying
+  Whenever Abyssal Specter deals damage to a player, that player discards a card.
+power: '2'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2be32aca-94d0-46df-9ca9-503a51416b14/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51833cff-6519-4806-8d91-0040e9a02189&unique=prints
+collector_number: '139'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Mystic shadow, bending near me, / Who art thou? / Whence come ye?"
+  —Stephen Crane, "Mystic shadow, bending near me"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: George Pratt
+artist_ids:
+- c245c0ec-545f-48b9-908d-33903c52ec59
+illustration_id: 30ce681a-b7c6-49a1-a0bf-ac1fb3a3c512
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12546
+penny_rank: 8264
+prices:
+  usd: '0.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3822
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Abyssal+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Abyssal+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Abyssal+Specter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2012?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Abyssal+Specter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Abyssal+Specter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

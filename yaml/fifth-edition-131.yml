@@ -1,0 +1,110 @@
+---
+object: card
+id: 127abfdc-8d9e-4ba3-8f31-c13a54831824
+oracle_id: 278b237e-9699-43eb-a03e-0b68eccc08b3
+multiverse_ids:
+- 3952
+tcgplayer_id: 2419
+cardmarket_id: 9502
+name: Unstable Mutation
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/127abfdc-8d9e-4ba3-8f31-c13a54831824
+scryfall_uri: https://scryfall.com/card/5ed/131/unstable-mutation?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.jpg?1562589212
+  normal: https://cards.scryfall.io/normal/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.jpg?1562589212
+  large: https://cards.scryfall.io/large/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.jpg?1562589212
+  png: https://cards.scryfall.io/png/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.png?1562589212
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.jpg?1562589212
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/127abfdc-8d9e-4ba3-8f31-c13a54831824.jpg?1562589212
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +3/+3.
+  At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/127abfdc-8d9e-4ba3-8f31-c13a54831824/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A278b237e-9699-43eb-a03e-0b68eccc08b3&unique=prints
+collector_number: '131'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Charles Gillespie
+artist_ids:
+- ec2c14ea-79eb-4c55-963f-c46f7cef1c22
+illustration_id: 2318886d-1e0d-4b05-be85-6e74161f34bf
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18549
+penny_rank: 2735
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3952
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Unstable+Mutation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Unstable+Mutation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Unstable+Mutation
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2419?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unstable+Mutation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Unstable+Mutation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

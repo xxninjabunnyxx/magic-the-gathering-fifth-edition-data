@@ -1,0 +1,134 @@
+---
+object: card
+id: 9bb66579-0840-4ec3-aa6a-731874662dbb
+oracle_id: 32fbb638-ab14-4e8b-a07a-d4c44e3496f2
+multiverse_ids:
+- 4194
+tcgplayer_id: 2427
+cardmarket_id: 9820
+name: Urza's Tower
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/9bb66579-0840-4ec3-aa6a-731874662dbb
+scryfall_uri: https://scryfall.com/card/5ed/429/urzas-tower?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801
+  normal: https://cards.scryfall.io/normal/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801
+  large: https://cards.scryfall.io/large/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801
+  png: https://cards.scryfall.io/png/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.png?1562592801
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Urza's Tower
+oracle_text: "{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant,
+  add {C}{C}{C} instead."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: bfa6bfa2-0aee-4623-a17e-a77898deb16d
+  component: combo_piece
+  name: Urza's Construction Drone
+  type_line: Artifact Creature — Construct
+  uri: https://api.scryfall.com/cards/bfa6bfa2-0aee-4623-a17e-a77898deb16d
+- object: related_card
+  id: 9bb66579-0840-4ec3-aa6a-731874662dbb
+  component: combo_piece
+  name: Urza's Tower
+  type_line: Land — Urza's Tower
+  uri: https://api.scryfall.com/cards/9bb66579-0840-4ec3-aa6a-731874662dbb
+- object: related_card
+  id: 6c6c9f3e-6df7-459c-a1b0-d628f17bb7a6
+  component: combo_piece
+  name: Urza's Mine
+  type_line: Land — Urza's Mine
+  uri: https://api.scryfall.com/cards/6c6c9f3e-6df7-459c-a1b0-d628f17bb7a6
+- object: related_card
+  id: c9a294bd-e6f6-4b88-b34c-135aff907b17
+  component: combo_piece
+  name: Urza's Power Plant
+  type_line: Land — Urza's Power-Plant
+  uri: https://api.scryfall.com/cards/c9a294bd-e6f6-4b88-b34c-135aff907b17
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9bb66579-0840-4ec3-aa6a-731874662dbb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A32fbb638-ab14-4e8b-a07a-d4c44e3496f2&unique=prints
+collector_number: '429'
+digital: false
+rarity: common
+flavor_text: Urza always put Tocasia's lessons on resource-gathering to effective
+  use.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: 11f98430-512b-41cd-b607-de233afe468f
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1047
+penny_rank: 11682
+prices:
+  usd: '1.82'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.42'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4194
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urza%27s+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urza%27s+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urza%27s+Tower
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2427?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Tower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Urza%27s+Tower&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

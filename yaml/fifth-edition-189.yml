@@ -1,0 +1,107 @@
+---
+object: card
+id: 7036057d-c7ab-4a37-a011-d10508cec2bc
+oracle_id: 539d7c1a-b5e9-4204-9109-ddb2e8dec168
+multiverse_ids:
+- 3872
+tcgplayer_id: 2324
+cardmarket_id: 9422
+name: Pox
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/7036057d-c7ab-4a37-a011-d10508cec2bc
+scryfall_uri: https://scryfall.com/card/5ed/189/pox?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.jpg?1562591823
+  normal: https://cards.scryfall.io/normal/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.jpg?1562591823
+  large: https://cards.scryfall.io/large/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.jpg?1562591823
+  png: https://cards.scryfall.io/png/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.png?1562591823
+  art_crop: https://cards.scryfall.io/art_crop/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.jpg?1562591823
+  border_crop: https://cards.scryfall.io/border_crop/front/7/0/7036057d-c7ab-4a37-a011-d10508cec2bc.jpg?1562591823
+mana_cost: "{B}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Each player loses a third of their life, then discards a third of the
+  cards in their hand, then sacrifices a third of the creatures they control, then
+  sacrifices a third of the lands they control. Round up each time.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7036057d-c7ab-4a37-a011-d10508cec2bc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A539d7c1a-b5e9-4204-9109-ddb2e8dec168&unique=prints
+collector_number: '189'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: 93381a9c-b9f2-41ca-9755-8efb7ca03601
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7615
+prices:
+  usd: '6.17'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.49'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3872
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pox
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2324?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pox&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pox&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

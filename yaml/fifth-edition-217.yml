@@ -1,0 +1,112 @@
+---
+object: card
+id: 4f6884be-9e7c-407b-9165-6a720a634bb5
+oracle_id: 35d4e500-28c8-44c9-990f-3aa25ed5dd14
+multiverse_ids:
+- 4038
+tcgplayer_id: 2089
+cardmarket_id: 9589
+name: Crimson Manticore
+lang: en
+released_at: '1997-03-24'
+uri: https://api.scryfall.com/cards/4f6884be-9e7c-407b-9165-6a720a634bb5
+scryfall_uri: https://scryfall.com/card/5ed/217/crimson-manticore?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.jpg?1562590657
+  normal: https://cards.scryfall.io/normal/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.jpg?1562590657
+  large: https://cards.scryfall.io/large/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.jpg?1562590657
+  png: https://cards.scryfall.io/png/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.png?1562590657
+  art_crop: https://cards.scryfall.io/art_crop/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.jpg?1562590657
+  border_crop: https://cards.scryfall.io/border_crop/front/4/f/4f6884be-9e7c-407b-9165-6a720a634bb5.jpg?1562590657
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Creature — Manticore
+oracle_text: |-
+  Flying
+  {R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5afd2f4b-8309-4f45-a2b2-3785018474cb
+set: 5ed
+set_name: Fifth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/5afd2f4b-8309-4f45-a2b2-3785018474cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/5ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4f6884be-9e7c-407b-9165-6a720a634bb5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A35d4e500-28c8-44c9-990f-3aa25ed5dd14&unique=prints
+collector_number: '217'
+digital: false
+rarity: rare
+flavor_text: 'Manticores divide all beings into two categories: other manticores and
+  dinner.'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Roger Raupp
+artist_ids:
+- 79d6f296-1948-4a24-a2ce-a76e89057f23
+illustration_id: e4e07d27-d7c3-4982-89e2-178e84852e72
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25010
+prices:
+  usd: '0.34'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4038
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Crimson+Manticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Crimson+Manticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Crimson+Manticore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2089?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crimson+Manticore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crimson+Manticore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
